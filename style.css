@@ -1,0 +1,172 @@
+﻿body
+{
+    padding-left:600px;
+}
+p
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+}
+pre
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+}
+.line1 
+{
+    position: absolute;
+    height: 1px;
+    width: 350px;
+    left:25px;
+    top:52px;
+    background-color: rgb(0, 0, 0);
+}
+.Page 
+{
+    position: relative;
+    width: 600px;
+    height: 800px;
+    border: 1px solid black;
+}
+.Block1
+{
+    position: absolute;
+    left:0px;
+    top:0px;
+}
+.Block2
+{
+    position: absolute;
+    height: 180px;
+    width: 400px;
+    left:200px;
+    top:0px;
+    background-color: grey;
+}
+.Block3
+{
+    position: absolute;
+    height: 620px;
+    width: 200px;
+    left:0px;
+    top:180px;
+    background-color: grey;
+}
+.Block4
+{
+    position: absolute;
+    height: 620px;
+    width: 400px;
+    left:200px;
+    top:180px;
+    background-color: rgb(230, 232, 231);
+}
+.Block5
+{
+    position: absolute;
+    height: 40px;
+    width: 600px;
+    left:0px;
+    top:140px;
+    background-color: rgba(74, 146, 255, 0.548);
+}
+.Name
+{
+    position: absolute;
+    left:20px;
+    top:-18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(217, 237, 255);
+}
+.Block2 .SummaryTitle
+{
+    position: absolute;
+    left:25px;
+    top:10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.Skill
+{
+    position: absolute;
+    left: 15px;
+    top:20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+.SkillsList
+{
+    position: absolute;
+    left: 0px;
+    top:60px;
+}
+.Languages
+{
+    position: absolute;
+    left: 15px;
+    top:90px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.LanguagesList
+{
+    position: absolute;
+    left: 0px;
+    top:130px;
+}
+.Education
+{
+    position: absolute;
+    left: 15px;
+    top:180px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.EducationList
+{
+    position: absolute;
+    left: 0px;
+    top:220px;
+}
+.Experience
+{
+    position: absolute;
+    left: 15px;
+    top:10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+}
+.ExperienceList
+{
+    position: absolute;
+    left: 0px;
+    top:45px;
+}
+.Projects
+{
+    position: absolute;
+    left: 15px;
+    top:200px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+}
+.ProjectsList
+{
+    position: absolute;
+    left: 0px;
+    top:240px;
+}
+.References
+{
+    position: absolute;
+    left: 15px;
+    top:350px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+}
+.ReferencesList
+{
+    position: absolute;
+    left: 0px;
+    top:390px;
+}
